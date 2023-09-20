@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="473.0" prefWidth="676.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplication2.QueriesPageController">
+   <top>
+      <AnchorPane prefHeight="93.0" prefWidth="676.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="279.0" layoutY="7.0" prefHeight="46.0" prefWidth="142.0" text="Queries" textAlignment="CENTER" textFill="#f8f6f6">
+               <font>
+                  <Font name="Arial" size="28.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </top>
+</BorderPane>

@@ -1,0 +1,4 @@
+managment@gmail.com,1234,Managment
+itdeparment@gmail.com,1234,It Deparment
+guest@gmail.com, 1234, Guest
+marchentbank@gmail.com,1234,Marchent Bank
